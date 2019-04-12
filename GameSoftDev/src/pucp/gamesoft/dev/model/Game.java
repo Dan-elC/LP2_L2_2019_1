@@ -1,4 +1,9 @@
 package GameSoftDev.src.pucp.gamesoft.dev.model;
+
+import GameSoftDev.src.pucp.gamesoft.dev.model.opt.Genre;
+import GameSoftDev.src.pucp.gamesoft.dev.model.opt.Platform;
+import GameSoftDev.src.pucp.gamesoft.dev.model.opt.GameMode;
+
 public class Game{
 	private String name;
 	private Genre genre;

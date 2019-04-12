@@ -1,4 +1,7 @@
 package GameSoftDev.src.pucp.gamesoft.dev.model.pject;
+
+import GameSoftDev.src.pucp.gamesoft.dev.model.Game;
+
 import java.util.ArrayList;
 public class Project{
 	private String name;

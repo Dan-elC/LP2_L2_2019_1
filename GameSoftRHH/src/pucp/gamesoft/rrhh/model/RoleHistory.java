@@ -1,4 +1,9 @@
 package GameSoftRHH.src.pucp.gamesoft.rrhh.model;
+
+import GameSoftRHH.src.pucp.gamesoft.rrhh.model.Role;
+import GameSoftRHH.src.pucp.gamesoft.rrhh.model.Employee;
+import GameSoftRHH.src.pucp.gamesoft.rrhh.model.Department;
+
 import java.util.Date;
 public class RoleHistory{
 	private Date startDate;

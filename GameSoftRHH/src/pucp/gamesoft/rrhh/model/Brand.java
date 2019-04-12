@@ -1,4 +1,7 @@
 package GameSoftRHH.src.pucp.gamesoft.rrhh.model;
+
+import GameSoftRHH.src.pucp.gamesoft.rrhh.model.Location;
+
 import java.util.ArrayList;
 public class Brand{
 	private String name;

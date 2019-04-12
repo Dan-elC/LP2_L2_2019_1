@@ -1,4 +1,7 @@
 package GameSoftDev.src.pucp.gamesoft.dev.model.pject;
+
+import GameSoftSecurity.src.pucp.gamesoft.security.model.User;
+
 public class Participant extends Resource implements Reportable{
 	private User user;
 	public Participant(User user){
