@@ -1,4 +1,4 @@
-package GameSoftUtil.classes.pucp.gamesoft.interfaces;
+package pucp.gamesoft.interfaces;
 public interface Consumable{
 	void reduce(float quantity);
 }
