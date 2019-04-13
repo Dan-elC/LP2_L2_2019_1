@@ -1,4 +1,4 @@
-package GameSoftUtil.src.pucp.gamesoft.interfaces;
+package pucp.gamesoft.interfaces;
 
 public interface Reportable{
 	String getInfo();

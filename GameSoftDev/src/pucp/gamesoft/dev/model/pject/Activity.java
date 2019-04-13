@@ -1,4 +1,4 @@
-package GameSoftDev.src.pucp.gamesoft.dev.model.pject;
+package pucp.gamesoft.dev.model.pject;
 import java.util.ArrayList;
 import java.util.Date;
 public class Activity extends WorkUnit{

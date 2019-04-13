@@ -1,4 +1,4 @@
-package GameSoftDev.src.pucp.gamesoft.dev.model.opt;
+package pucp.gamesoft.dev.model.opt;
 public class Genre{
 	private String name;
 	public Genre(String name){

@@ -1,6 +1,6 @@
-package GameSoftRHH.src.pucp.gamesoft.rrhh.model;
+package pucp.gamesoft.rrhh.model;
 
-import GameSoftRHH.src.pucp.gamesoft.rrhh.model.Region;
+import pucp.gamesoft.rrhh.model.Region;
 
 public class Country{
 	private String name;

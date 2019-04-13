@@ -1,6 +1,6 @@
-package GameSoftRHH.src.pucp.gamesoft.rrhh.model;
+package pucp.gamesoft.rrhh.model;
 
-import GameSoftRHH.src.pucp.gamesoft.rrhh.model.Employee;
+import pucp.gamesoft.rrhh.model.Employee;
 
 import java.util.ArrayList;
 public class Department{

@@ -1,4 +1,4 @@
-package GameSoftRHH.src.pucp.gamesoft.rrhh.model;
+package pucp.gamesoft.rrhh.model;
 public class Region{
 	private String name;
 	public Region(String name){

@@ -1,6 +1,6 @@
-package GameSoftRHH.src.pucp.gamesoft.rrhh.model;
+package pucp.gamesoft.rrhh.model;
 
-import GameSoftRHH.src.pucp.gamesoft.rrhh.model.Country;
+import pucp.gamesoft.rrhh.model.Country;
 
 public class Location{
 	private String address;

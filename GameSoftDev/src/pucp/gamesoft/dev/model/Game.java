@@ -1,8 +1,8 @@
-package GameSoftDev.src.pucp.gamesoft.dev.model;
+package pucp.gamesoft.dev.model;
 
-import GameSoftDev.src.pucp.gamesoft.dev.model.opt.Genre;
-import GameSoftDev.src.pucp.gamesoft.dev.model.opt.Platform;
-import GameSoftDev.src.pucp.gamesoft.dev.model.opt.GameMode;
+import pucp.gamesoft.dev.model.opt.Genre;
+import pucp.gamesoft.dev.model.opt.Platform;
+import pucp.gamesoft.dev.model.opt.GameMode;
 
 public class Game{
 	private String name;

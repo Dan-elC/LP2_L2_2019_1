@@ -1,6 +1,6 @@
-package GameSoftDev.src.pucp.gamesoft.dev.model.pject;
+package pucp.gamesoft.dev.model.pject;
 
-import GameSoftDev.src.pucp.gamesoft.dev.model.Game;
+import pucp.gamesoft.dev.model.Game;
 
 import java.util.ArrayList;
 public class Project{

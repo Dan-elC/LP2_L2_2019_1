@@ -1,6 +1,6 @@
-package GameSoftSecurity.src.pucp.gamesoft.security.model;
+package pucp.gamesoft.security.model;
 
-import GameSoftRHH.src.pucp.gamesoft.rrhh.model.Employee;
+import pucp.gamesoft.rrhh.model.Employee;
 
 public class User{
 	private String username;

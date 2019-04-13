@@ -1,6 +1,6 @@
-package GameSoftRHH.src.pucp.gamesoft.rrhh.model;
+package pucp.gamesoft.rrhh.model;
 
-import GameSoftRHH.src.pucp.gamesoft.rrhh.model.Role;
+import pucp.gamesoft.rrhh.model.Role;
 
 import java.util.Date;
 public class Employee{

@@ -1,4 +1,4 @@
-package GameSoftRHH.src.pucp.gamesoft.rrhh.model;
+package pucp.gamesoft.rrhh.model;
 public class Role{
 	private String title;
 	private float minSalary;

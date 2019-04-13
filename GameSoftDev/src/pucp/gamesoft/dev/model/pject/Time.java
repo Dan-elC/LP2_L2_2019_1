@@ -1,4 +1,4 @@
-package GameSoftDev.src.pucp.gamesoft.dev.model.pject;
+package pucp.gamesoft.dev.model.pject;
 public class Time extends Resource implements Consumable{
 	private String measureUnit;
 	private float quantity;

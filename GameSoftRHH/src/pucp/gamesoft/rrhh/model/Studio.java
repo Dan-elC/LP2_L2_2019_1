@@ -1,4 +1,4 @@
-package GameSoftRHH.src.pucp.gamesoft.rrhh.model;
+package pucp.gamesoft.rrhh.model;
 import java.util.ArrayList;
 public class Studio{
 	private String name;
